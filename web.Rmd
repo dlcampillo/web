@@ -1,0 +1,33 @@
+---
+title: "David Lozano"
+image: "david.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/david-lozano-campillo-103198225/"
+  - label: GitHub
+    url: "https://github.com/lozanocampillod"
+  - label: Email
+    url: "mailto:lozanocampillod@gmail.com"
+output:
+  postcards::trestles
+---
+
+## Bio
+
+Hola! Soy David Lozano, estudiante de último curso de matemáticas, con especialización en estadística, investigación operativa y programación. Mis campos de interés son la ciencia de datos, machine learning, AI y optimización.
+
+## Eduación
+
+**Universidad de Murcia** | Murcia, España
+
+Grado en Matemáticas | Sept 2018 - Jun 2022
+
+**Università degli Studi di Padova** | Padua, Italia
+
+Beca Erasmus+ (Laurea Magistrale di Matematica) | Sept 2021 - Feb 2022
+
+## Premios
+
+**Segundo Premio** en el **XXX Congreso Nacional de Jóvenes Investigadores**
+
+Comunicación inalámbrica mediante luz visible: implementación con Arduino UNO
